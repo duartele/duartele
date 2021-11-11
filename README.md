@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**duartele/duartele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-green) 
 
-Here are some ideas to get you started:
+Hi guys, I'm **Leandro Duarte**. I am a Data Science student at University of Minho (Portugal). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love statistics and find Machine Learning fascinating.
+
+### 📫 Contact
+
+[LinkedIn][0] | [kaagle][1] | or just ✉️ [Email](mailto:lndoxmat@hotmail.com)
+ 
+### 💻 Open Source Work Stats
+
+![joaogui1's Github stats](https://github-readme-stats.vercel.app/api?username=joaogui1&show_icons=true)
+
+[0]: https://www.linkedin.com/in/leandro-duarte-997029118/
+[1]: https://www.kaggle.com/leandroduarte
