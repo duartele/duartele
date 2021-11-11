@@ -12,7 +12,7 @@ I love statistics and find Machine Learning fascinating.
  
 ### 💻 Open Source Work Stats
 
-![joaogui1's Github stats](https://github-readme-stats.vercel.app/api?username=joaogui1&show_icons=true)
+![duartele's Github stats](https://github-readme-stats.vercel.app/api?username=duartele&show_icons=true)
 
 [0]: https://www.linkedin.com/in/leandro-duarte-997029118/
 [1]: https://www.kaggle.com/leandroduarte
