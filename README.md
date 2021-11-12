@@ -8,7 +8,7 @@ I love statistics and find Machine Learning fascinating.
 
 ### 📫 Contact
 
-[LinkedIn][0] | [kaagle][1] | or just ✉️ [Email](mailto:lndoxmat@hotmail.com)
+[LinkedIn][0] | [Kaggle][1] | or just ✉️ [Email](mailto:lndoxmat@hotmail.com)
  
 ### 💻 Open Source Work Stats
 
