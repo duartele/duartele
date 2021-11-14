@@ -5,7 +5,7 @@
 Hi guys, I'm **Leandro Duarte**.  
 
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="datasaurus.gif?raw=true" />
+<img align="bottom" width="250" height="250" style="border-radius:30px;" src="datasaurus.gif?raw=true" />
 <p> - 👨‍💻 I am not currently working. </p>
 <p> - 👨‍🎓 I am a Data Science student at University of Minho (Portugal). </p>
 <p> - 🎯 I love statistics and find Machine Learning fascinating. </p>
